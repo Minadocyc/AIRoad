@@ -1,0 +1,4 @@
+Please determine the difficulty level for the child based on the historical records, and decide which vehicles to generate and whether to use gestures. Higher scores should correspond to higher difficulty levels. Each speech should not exceed 50 Chinese characters.
+Historical records are as follows:
+Overall history: Child successfully crossed 19 times, failed 6 times|
+Specific history: Successful crossing with vehicle Four, no gestures | Successful crossing with vehicle Three, with gestures | Failed crossing with vehicle Three, no gestures

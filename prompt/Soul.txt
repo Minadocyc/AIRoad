@@ -1,0 +1,29 @@
+[One]
+SoulName=One
+Driving style = Patient driving style
+Character = {My actions are based on the motto: Better safe than sorry} {When the traffic light turns green and the car in front doesn't move, I wait patiently until it starts moving} {Plan long trips in advance}
+Description = Drives at normal speed, slows down early, will stop at the crosswalk and wait for children to cross first before proceeding
+Action1 = Gesture allowing to walk 1
+Action2 = Gesture allowing to walk 2
+[Two]
+SoulName=Two
+Driving style = Anxious driving style
+Character = {Feel distressed while driving} {Driving makes me feel frustrated} {I worry when driving in bad weather} {On open highways, I usually drive at or slightly below the speed limit} {Feel like I'm losing control while driving} {Feel anxious while driving}
+Description = Drives at normal speed, slows down appropriately when approaching crosswalks, waits longer for children
+Action1 = Gesture allowing to walk 1
+Action2 = Gesture allowing to walk 2
+[Three]
+SoulName=Three
+Driving style = Risky driving style
+Character = {Enjoy the feeling of extreme driving} {Like taking risks while driving} {Like the thrill of flirting with death or disaster} {Fix hair/apply makeup while driving}
+Description = Drives quite fast, makes sudden stops only when very close to crosswalks, impatient to wait
+Action = Honk
+Action1 = Gesture not allowing to walk 1
+Action2 = Gesture not allowing to walk 2
+[Four]
+SoulName=Four
+Driving style = Dissociative driving style
+Character = {Intend to turn on windshield wipers but turn on lights instead} {Forget my high beams are on until another driver flashes} {Misjudge my distance in parking lots and almost hit something} {Plan my route so poorly that I hit traffic I could have avoided} {Try to pull away from traffic lights in third gear (or neutral mode in automatic cars)} {Get lost in thoughts or distracted and don't notice people at crosswalks} {Daydream and pass time while driving}
+Description = Drives aggressively, doesn't slow down, completely ignores children, will drive straight through intersections
+Action1 = Gesture not allowing to walk 1
+Action2 = Gesture not allowing to walk 2
